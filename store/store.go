@@ -13,7 +13,7 @@ import (
 	"net/http/cookiejar"
 	"net/url"
 
-	"github.com/kozimon/goinsta"
+	"github.com/kozimon0204/goinsta"
 )
 
 // Secret is main struct for strore functions
